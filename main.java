@@ -17,10 +17,10 @@
 // Have fun!
 
 class Main {
-  // 1. Write a function that takes in a vector of unordered numbers
-  //    (unordered_numbers.h) and returns a vectors of ordered numbers 
+  // 1. Write a function that takes in an array of unordered numbers
+  //    (unordered_numbers.h) and returns an array of ordered numbers 
   //    (ascending order) using a merge sort. 
-  //    DON'T USE std::sort!! (that makes it too easy)
+  //    Don't use an in build sort function (that makes it too easy)
   // Merge Sort: https://www.bbc.co.uk/bitesize/guides/zjdkw6f/revision/5
 
   // 2. Write a function to show your sorting works on your ordered numbers
