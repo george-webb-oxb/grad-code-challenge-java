@@ -35,6 +35,6 @@ class Main {
   //    (e.g. Prints "Passed" to the terminal on an expected result).
 
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+    System.out.println("Hello!");
   }
 }
